@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    android:id="@+id/chat_toolbar_id"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:minHeight="?attr/actionBarSize"
+    app:theme="@style/AppTheme.Toolbar">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+            style="@style/titleImage"
+            android:id="@+id/top_profile"
+            android:layout_marginStart="0dp"
+    />
+    <TextView
+            style="@style/titleText"
+            android:id="@+id/my_name"
+            android:text="@string/app_name"
+            android:layout_marginStart="30dp"
+    />
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#000</color>
+    <!--<color name="colorPrimaryDark">#14aa46</color>-->
+    <color name="colorAccent">#46d677</color>
+
+    <color name="no_color">#00ffffff</color>
+    <color name="white">#fff</color>
+    <color name="white2">#e6ecf0</color>
+    <color name="white3">#E0E7EC</color>
+    <color name="black">#000</color>
+    <color name="main">#46d677</color>
+    <color name="main_deep">#3bc96b</color>
+    <color name="main_light">#4dfc89</color>
+    <color name="chat_bg">#e6e6e6</color>
+    <color name="unseen_bg">#f1f1f1</color>
+    <color name="gray">#505050</color>
+
+    <color name="yellow">#ffbf00</color>
+    <color name="blue">#0011ff</color>
+    <color name="blue_light">#00a2ff</color>
+    <color name="red">#fc0008</color>
+    <color name="green">#2fff00</color>
+</resources>

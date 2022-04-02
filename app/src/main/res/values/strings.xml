@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+
+    <!-- firebase -->
+    <string name="f_default">default</string>
+    <string name="f_users">users</string>
+    <string name="f_chats">chats</string>
+    <string name="f_table">table</string>
+    <string name="f_friends">friends</string>
+    <string name="f_images">images</string>
+    <string name="f_profile">profile_image</string>
+    <string name="f_on">online</string>
+    <string name="f_off">offline</string>
+    <string name="f_null">__null_</string>
+    <string name="f_noti">notificationMess</string>
+    <string name="f_sName">senderName</string>
+
+    <!-- error messages -->
+    <string name="error0">Something wrong. Try again.</string>
+    <string name="error1">Username is required.</string>
+    <string name="error2">Username should be more then 6 character.</string>
+    <string name="error3">Mail is required.</string>
+    <string name="error4">Please write a valid mail.</string>
+    <string name="error5">Password is required.</string>
+    <string name="error6">Password should be more then 6 character.</string>
+
+    <!-- sign up -->
+    <string name="create_ac">Create New Account</string>
+    <string name="username">Full Name</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="singup_message">and join with your new world here.</string>
+
+    <!-- sign in -->
+    <string name="signin">Sign In</string>
+    <string name="singin_message">and you can discover a new world here.</string>
+    <string name="new_account">Create New Account</string>
+    <string name="singout">Sign Out</string>
+
+    <!-- no internet -->
+    <string name="retry">RETRY</string>
+    <string name="opps">Whoops!</string>
+    <string name="opps_text">No internet connections found. \n Check your connection and try again.</string>
+
+    <!-- messenger -->
+    <string name="aa">Text Message\.\.\.</string>
+
+    <!-- profile -->
+    <string name="user_full_name">Ben Ten</string>
+    <string name="id">\@ben10</string>
+    <string name="location">Washington, D.C.</string>
+    <string name="personal_info">About Ben Ten</string>
+    <string name="address">Live In</string>
+    <string name="local_address">4538 Alabama Ave SE Washington DC 20019</string>
+    <string name="school_name">Othello High School</string>
+    <string name="gender">Gender</string>
+    <string name="g_name">Male</string>
+    <string name="bio">I am</string>
+    <string name="bio_text">\t Ben 10 is an American animated television series and a media franchise created by Man of Action Studios and produced by Cartoon Network Studios.</string>
+    <string name="open">open</string>
+    <string name="school">School/College</string>
+</resources>
